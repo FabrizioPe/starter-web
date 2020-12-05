@@ -2,6 +2,8 @@
 
 ## Introduction
 
+This example is to show the use of the p4merge tool
+
 ## Purpose
 
 ## Deployment
