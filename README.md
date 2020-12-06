@@ -13,3 +13,7 @@ As stated above, this is to use the diff tool of p4merge
 No deployment, it's just an example!
 
 ## How To Contribute
+
+### Copyright
+
+2020 git.training
