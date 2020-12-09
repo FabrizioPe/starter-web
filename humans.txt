@@ -8,7 +8,7 @@
 # THANKS
 
     All the world.
-
+    And, of course, a part of Jupiter.		
 # TECHNOLOGY COLOPHON
 
     HTML5, CSS3
