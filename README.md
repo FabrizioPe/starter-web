@@ -18,4 +18,4 @@ No deployment, it's just an example!
 
 ### Copyright
 
-2020 git.training
+2020 git.training. All rights resereved.
