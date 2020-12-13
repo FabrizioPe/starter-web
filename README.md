@@ -8,7 +8,8 @@ This example is to show the use of the p4merge tool
 
 ## Purpose
 
-As stated above, this is to use the diff and merge visual tools of p4merge
+As stated above, this is to use the diff and merge visual tools of p4merge.
+But, also, to show diffs when I create a dev branch on gitHub.
 
 ## Deployment
 
